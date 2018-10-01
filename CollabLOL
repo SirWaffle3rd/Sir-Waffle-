@@ -1,2 +1,5 @@
 import os
 import time
+
+print('Created by DonaldRump and Sir Waffle 3rd')
+print('Developed by GalaxCode')
