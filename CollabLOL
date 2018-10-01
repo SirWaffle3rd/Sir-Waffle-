@@ -1,6 +1,7 @@
 import os
 import time
-import pygal
+
 
 print('Created by DonaldRump and Sir Waffle 3rd')
 print('Developed by GalaxCode')
+time.sleep
